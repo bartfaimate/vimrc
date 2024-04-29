@@ -16,7 +16,6 @@ set listchars=eol:.,tab:>-,trail:~,extends:>,precedes:<
 
 set cursorline
 set number
-set signcolumn=yes
 set showcmd
 set noshowmode
 set conceallevel=1
